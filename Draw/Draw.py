@@ -12,7 +12,7 @@ pensize = 5
 fg = 'black'
 
 root.geometry("900x650")
-root.title('Draw By Gurman')
+root.title('Draw')
 
 
 c = Canvas(root, width = width, height = height, bg = c_bg)
